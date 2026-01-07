@@ -144,11 +144,11 @@ Utility Meter helpers**:
 4.  First helper:
     -   **Name**: Balanced Consumption
     -   **Input sensor**: **Net Metered Energy**
-    -   **Meter type**: Energy
+    -   Leave everything else at default settings
 5.  Second helper:
     -   **Name**: Balanced Feed-in
     -   **Input sensor**: **Net Metered Energy Return**
-    -   **Meter type**: Energy
+    -   Leave everything else at default settings
 
 These helpers enable correct statistics and Energy Dashboard support.
 
@@ -226,9 +226,11 @@ phasen-balancierte Energieerfassung** durch:
 4.  Erster Helfer:
     -   **Name**: Saldierender Verbrauch
     -   **Eingangssensor**: **Net Metered Energy**
+    -   alles andere auf den Standardeinstellungen lassen
 5.  Zweiter Helfer:
     -   **Name**: Saldierte Einspeisung
     -   **Eingangssensor**: **Net Metered Energy Return**
+    -   alles andere auf den Standardeinstellungen lassen
 
 ------------------------------------------------------------------------
 
