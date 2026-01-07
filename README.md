@@ -126,11 +126,9 @@ Utility Meter helpers**:
 4.  First helper:
     -   **Name**: Balanced Consumption
     -   **Input sensor**: **Net Metered Energy**
-    -   **Meter type**: Energy
 5.  Second helper:
     -   **Name**: Balanced Feed-in
     -   **Input sensor**: **Net Metered Energy Return**
-    -   **Meter type**: Energy
 
 These helpers enable correct statistics and Energy Dashboard support.
 
@@ -286,12 +284,10 @@ Utility‑Meter‑Helfer** angelegt werden:
 3.  **Utility Meter** auswählen
 4.  Erster Helfer:
     -   **Name**: Saldo Verbrauch
-    -   **Eingangssensor**: **Netto gemessene Energie**
-    -   **Zählertyp**: Energie
+    -   **Eingangssensor**: **Net Metered Energy**
 5.  Zweiter Helfer:
     -   **Name**: Saldo Einspeisung
-    -   **Eingangssensor**: **Netto gemessene Einspeiseenergie**
-    -   **Zählertyp**: Energie
+    -   **Eingangssensor**: **Net Metered Energy Return**
 
 Diese Helfer ermöglichen korrekte Statistiken und die Nutzung im
 Energy‑Dashboard.
